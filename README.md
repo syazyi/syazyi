@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syazyi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syazyi&show_icons=true&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **syazyi/syazyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
